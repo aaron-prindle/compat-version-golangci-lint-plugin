@@ -1,0 +1,1 @@
+# compat-version-golangci-lint-plugin
